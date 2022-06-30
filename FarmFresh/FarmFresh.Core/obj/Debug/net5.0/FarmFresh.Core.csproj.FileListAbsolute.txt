@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\bin\Debug\net5.0\FarmFresh.Core.deps.json
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\bin\Debug\net5.0\FarmFresh.Core.dll
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\bin\Debug\net5.0\FarmFresh.Core.pdb
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\obj\Debug\net5.0\FarmFresh.Core.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\obj\Debug\net5.0\FarmFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\obj\Debug\net5.0\FarmFresh.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\obj\Debug\net5.0\FarmFresh.Core.AssemblyInfo.cs
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\obj\Debug\net5.0\FarmFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\obj\Debug\net5.0\FarmFresh.Core.dll
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\obj\Debug\net5.0\refint\FarmFresh.Core.dll
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\obj\Debug\net5.0\FarmFresh.Core.pdb
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Core\obj\Debug\net5.0\ref\FarmFresh.Core.dll

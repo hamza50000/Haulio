@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\bin\Debug\net5.0\FarmFresh.Application.deps.json
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\bin\Debug\net5.0\FarmFresh.Application.dll
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\bin\Debug\net5.0\FarmFresh.Application.pdb
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\bin\Debug\net5.0\FarmFresh.Core.dll
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\bin\Debug\net5.0\FarmFresh.Core.pdb
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\obj\Debug\net5.0\FarmFresh.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\obj\Debug\net5.0\FarmFresh.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\obj\Debug\net5.0\FarmFresh.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\obj\Debug\net5.0\FarmFresh.Application.AssemblyInfo.cs
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\obj\Debug\net5.0\FarmFresh.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\obj\Debug\net5.0\FarmFresh.Application.csproj.CopyComplete
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\obj\Debug\net5.0\FarmFresh.Application.dll
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\obj\Debug\net5.0\refint\FarmFresh.Application.dll
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\obj\Debug\net5.0\FarmFresh.Application.pdb
+C:\Users\DELL\source\repos\FarmFresh\FarmFresh.Application\obj\Debug\net5.0\ref\FarmFresh.Application.dll

@@ -1,0 +1,62 @@
+<div class="row">
+  <div class="col-2">
+    <app-side-nav-bar></app-side-nav-bar>
+  </div>
+  <div class="col-10">
+    <div class="row">
+      <div
+        *ngFor="let product of products"
+        class="card card-custom col-6"
+        style="width: 18rem"
+      >
+        <a
+          (click)="
+            openDialog(
+              product.id,
+              product.name,
+              product.picture,
+              product.productDetailId!
+            )
+          "
+        >
+          <img
+            class="card-img-top card-image"
+            [src]="product.picture"
+            alt="Card image cap"
+          />
+        </a>
+        <div class="card-body">
+          <h2 class="card-title">{{ product.name }}</h2>
+          <p class="card-text">1 Packet</p>
+        </div>
+      </div>
+    </div>
+    <div class="row paginator">
+      <nav aria-label="...">
+        <ul class="pagination">
+          <li class="page-item disabled">
+            <button
+              [disabled]="prevButton"
+              class="btn btn-primary"
+              (click)="previous()"
+            >
+              Previous
+            </button>
+          </li>
+          <li class="page-item page-counter">
+            {{ products.length + " / " + total }}
+          </li>
+          <li class="page-item nxt-btn">
+            <button
+              [disabled]="nextButton"
+              class="btn btn-primary"
+              (click)="next()"
+            >
+              Next
+            </button>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>

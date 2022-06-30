@@ -1,0 +1,29 @@
+.card-custom {
+  padding: 10px;
+  margin-left: 50px;
+  border: 0px !important;
+}
+.card-image {
+  height: 200px;
+  border-radius: 10%;
+  box-shadow: 2px 2px 4px #000000;
+}
+.card-image:hover {
+  filter: brightness(80%);
+}
+a:hover {
+  cursor: pointer;
+}
+.page-counter {
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 10px;
+}
+.paginator {
+  float: right;
+  margin-right: 30px;
+}
+.nxt-btn {
+  padding-left: 10px;
+}

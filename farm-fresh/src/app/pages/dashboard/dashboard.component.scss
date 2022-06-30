@@ -1,0 +1,19 @@
+.banner {
+  height: 100%;
+  width: 100%;
+}
+
+.image {
+  height: 700px;
+  position: relative;
+  overflow: hidden;
+}
+
+.image > img {
+  position: absolute;
+  top: -200px;
+  left: 0;
+  width: 100%;
+  height: calc(100% + 200px);
+  object-fit: cover;
+}

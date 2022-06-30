@@ -1,0 +1,54 @@
+<mat-dialog-content class="mat-typography">
+  <div class="row">
+    <div class="col-6">
+      <img height="100%" width="100%" style="padding: 10px" [src]="imagePath" />
+    </div>
+    <div class="col-6">
+      <h1 class="title">{{ productName }}</h1>
+      <h3 class="sub">Packet Of 1 Bundle</h3>
+      <div class="row table-content">
+        <div class="col-4">
+          <p>Key Information:</p>
+        </div>
+        <div class="col-6">
+          {{ productDetail.about }}
+        </div>
+      </div>
+      <div class="row table-content">
+        <div class="col-4">
+          <p>About the Product:</p>
+        </div>
+        <div class="col-6">
+          {{ productDetail.description }}
+        </div>
+      </div>
+      <div class="row table-content">
+        <div class="col-4">
+          <p>Country of Origin:</p>
+        </div>
+        <div class="col-6">
+          {{ productDetail.countryOfOrigin }}
+        </div>
+      </div>
+    </div>
+  </div>
+</mat-dialog-content>
+<mat-dialog-actions class="buttons-div">
+  <button class="btn btn-danger qty-btn" mat-button disabled>Qty</button>
+  <div class="form-group dropdown-qty">
+    <select [(ngModel)]="qty" class="form-control">
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+    </select>
+  </div>
+  <button
+    class="btn btn-danger btn-style"
+    mat-button
+    [mat-dialog-close]="true"
+    cdkFocusInitial
+    (click)="addToCart()"
+  >
+    Add to Cart
+  </button>
+</mat-dialog-actions>
